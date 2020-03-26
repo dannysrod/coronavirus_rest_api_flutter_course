@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/bizz84/coronavirus_rest_api_flutter_course) 
+
 # Coronavirus REST API Flutter Course
 
 Source code for my [Coronavirus REST API Flutter Course on Teachable](https://courses.codewithandrea.com/p/flutter-rest-api-course-build-a-coronavirus-tracking-app).
